@@ -112,10 +112,10 @@ This project was developed using Python.
 
 To replicate this analysis:
 
-1.  Clone this repository: `git clone https://github.com/YourUsername/telco_churn_prediction.git`
+1.  Clone this repository: `git clone https://github.com/desola18/telco_churn_prediction.git`
 2.  Navigate to the project directory: `cd telco_churn_prediction`
 3.  Install the required libraries: `pip install -r requirements.txt`
-4.  Open the Jupyter Notebook: `jupyter notebook notebooks/churn_prediction_analysis.ipynb` and run all cells.
+4.  Open the Jupyter Notebook: `(http://localhost:8888/notebooks/churn_prediction_analysis.ipynb)` and run all cells.
 
 ---
 
